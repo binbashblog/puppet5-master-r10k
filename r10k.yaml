@@ -1,0 +1,8 @@
+---
+:cachedir: 'cache/r10k'
+
+:sources:
+  :base:
+    remote: 'ssh://binbashblog@/binbashblog/puppet5-master-r10k-environments.git'
+    basedir: '/etc/puppetlabs/code/environments'
+
